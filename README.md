@@ -7,7 +7,9 @@ DSCommerce é uma aplicação full stack web construída durante o bootcamp edi�
 
 A aplicação consiste em uma busca de produtos paginada com tela de login, carrinho de compras e inicio, além de ter um acesso administrativo para inserção, atualização, recuperação e deleção de produtos (CRUD).
 
-No **backend** o código foi construido em java utilizando como framework o spring boot na versão 2.7.6. Aplicação desenvolvida através de padrões de projetos utilizando a arquitetura de camadas.
+No **backend** o código foi construido em java utilizando como framework o spring boot na versão 3.0. Aplicação desenvolvida através de padrões de projetos utilizando a arquitetura de camadas.
+
+O objetivo desta aplicação produzida em java com spring framework, é entregar uma API Rest Full para que possa ser consumida pelo frontend
 
 **Frontend em construção!**
 
