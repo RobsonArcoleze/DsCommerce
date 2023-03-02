@@ -31,6 +31,7 @@ O objetivo desta aplicação produzida em java com spring framework, é entregar
 - JPA / Hibernate
 - Maven
 - Banco h2
+- Swagger
 ## Front end
 - **Frontend em construção!**
 ## Implantação em produção
